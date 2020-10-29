@@ -1,4 +1,4 @@
 # Genetic-Engineering-Attribution-Challenge
-I participated in Genetic Engineering Attribution Challenge from altLabs on DRIVENData. My model performed about 15% better than their benchmark model (88% top 10 accuracy). 
+I participated in Genetic Engineering Attribution Challenge from altLabs on DRIVENData and scored in the top 10%.
 
 "Genetic engineering attribution is the process of identifying the source of a genetically engineered piece of DNA. This ability ensures that scientists who have spent countless hours developing breakthrough technology get their due credit, intellectual property is protected, and responsible innovation is promoted. By connecting a genetically engineered system with its designers, society can examine the policies, processes, and decisions that led to its creation. As has been observed in other disciplines, reducing anonymity encourages more prudent behavior within scientific and entrepreneurial communities—without stifling innovation."
